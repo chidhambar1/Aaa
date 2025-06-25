@@ -35,7 +35,7 @@ public class Settings {
     public static final int SHOW_NEW_APP_TAG_DURATION = 12 * 60 * 60 * 1000; /* An app has the new tag for twelve hours. If openCount >= 1, the new tag is not drawn. */
 
     public static final float MIN_ICON_SIZE = 10.0f;
-    public static final float MIN_DISTORTION_FACTOR = 0.5f;
+    public static final float MIN_DISTORTION_FACTOR = 0.0f;
     public static final float MIN_SCALE_FACTOR = 1.0f;
     public static final long MIN_ANIMATION_TIME = 100;
 
